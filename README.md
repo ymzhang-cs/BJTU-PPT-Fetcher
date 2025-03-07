@@ -1,4 +1,7 @@
 # BJTU-PPT-Fetcher
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fymzhang-cs%2FBJTU-PPT-Fetcher&countColor=%23263759)
+
 一键获取BJTU智慧课程平台PPT
 
 ## 使用方法
